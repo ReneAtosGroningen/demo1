@@ -1,6 +1,6 @@
 const https = require('https');
 
-const unplashApi = 'https://source.unsplash.com/1600x900?dream';
+const unplashApi = 'https://source.unsplash.com/1600x900?christmas';
 const quotes = [
   'Wherever you go, no matter what the weather, always bring your own sunshine.',
   'You\’re awesome.',
@@ -11,6 +11,7 @@ const quotes = [
   'You\'re capable of more than you can even dream.',
   'You deserve the best.',
   'Keep going, you\'re doing well.',
+  'Hohoho, Merry christmas.',
   'Stay positive; stay hopeful'
 ];
 
